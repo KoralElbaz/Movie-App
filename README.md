@@ -19,3 +19,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+## Images
+
+<img src="[https://example.com/image.jpg](https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/homePage_desktop.PNG)" alt="homePage" style="width: 300px; height: 200px;">
+
+
