@@ -21,6 +21,6 @@ You may also see any lint errors in the console.
 
 ## Images
 
-<img src="(https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/homePage_desktop.PNG" alt="homePage" style="width: 300px; height: 200px;">
+<img src="https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/homePage_desktop.PNG" alt="homePage" style="width: 300px; height: 200px;">
 
 
