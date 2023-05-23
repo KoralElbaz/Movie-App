@@ -29,12 +29,12 @@ You may also see any lint errors in the console.
 
 #### for iPad
 
-<img src="https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/homePage_ipad.PNG" alt="homePage" style="width: 500px; height: 300px;">
+<img src="https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/homePage_ipad.PNG" alt="homePage" style="width: 450px; height: 300px;">
 
 
 #### for smart phones
 
-<img src="https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/homePage_galaxyS8.PNG" alt="homePage" style="width: 500px; height: 300px;">
+<img src="https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/homePage_galaxyS8.PNG" alt="homePage" style="width: 300px; height: 300px;">
 
 
 
