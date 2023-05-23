@@ -1,0 +1,41 @@
+
+.pic{
+    width: 210px;
+    height: 295px;
+}
+
+.box h1{
+    font-size: 24px;
+}
+
+.btnInfo{
+    border: none;
+    text-decoration: none;
+    size: 16px;
+    background: #949393;
+    padding: 8px 16px;
+    border-radius: 16px;
+    color: white;
+}
+
+.btnInfo:hover{
+    background: rgb(3, 118, 153);
+
+}
+
+/* Responsive */
+
+@media (max-width:780px){
+    .box {
+        margin: 16px auto;
+        width:80%;
+        
+    }
+    
+}
+
+@media (max-width:975px){
+    .row{
+        justify-content: space-around;
+    }
+}

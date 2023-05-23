@@ -1,0 +1,40 @@
+
+.info{
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    padding: 40px;
+}
+
+.btnInfo{
+    background: rgb(62, 62, 62);
+    padding: 8px 16px;
+}
+.info-img img{
+    height: 350px;
+}
+
+.summery-info{
+    width: 600px;
+    margin-bottom: 30px;
+}
+
+/* responsive */
+
+@media (max-width:1000px){
+    .info{
+        width: 100%;
+    }
+}
+
+@media (max-width:600px){
+    .summery-info{
+        width: 400px;    
+    }
+}
+
+@media (max-width:400px){
+    .summery-info{
+        width: 300px;    
+    }
+}

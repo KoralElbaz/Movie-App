@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+background: silver;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 0;
+}
+
+.container-fluid{
+    width: 100%;
+    padding: 0;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+.row{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.box{
+    width: 30%;
+    height: 500px;
+    background: white;
+    padding: 16px;
+    color: black;
+    margin: 16px;
+    margin-top: 36px;
+    text-align: center;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.79);
+}

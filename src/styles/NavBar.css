@@ -1,0 +1,62 @@
+nav{
+    min-height: 80px;
+    background-color: rgb(55, 55, 55);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav h1{
+    font-size: 40px;
+    padding-left: 24px;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.inputSearch{
+    padding: 4px 16px;
+    margin-right: 8px;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.btnSearch{
+    padding: 4px 16px;
+    margin-right: 8px;
+    border-radius: 4px;
+    font-size: 16px;
+    background: #949393;
+    color: white;
+    border: none;
+}
+
+.btnSearch:hover{
+    background: rgb(3, 118, 153);
+}
+
+/* ----- Responsive ----- */
+
+/* Tablet iPads portrait mode max-width	 */
+@media (max-width:1024px){
+    .btnSearch{
+        padding: 4px 8px;
+    }
+
+    .inputSearch{
+        padding: 4px 8px;
+        font-size: 12px;
+    }
+}
+
+@media (max-width:533px){
+    .btnSearch{
+        padding: 4px 4px;
+        font-size: 12px;
+    }
+
+    .inputSearch{
+        padding: 4px 4px;
+        font-size: 10px;
+    }
+}
