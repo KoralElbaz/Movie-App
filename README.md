@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project focuses on frontend development. I have created a responsive movie app that fetches movie data from an API and displays it on the screen. Additionally, users can search for movies and view detailed information about each movie. The primary objective of this project was to learn React and build a responsive application that is suitable for different devices, including computers, tablets, and smartphones.
 
 ## Available Scripts
 
