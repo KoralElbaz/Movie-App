@@ -32,7 +32,7 @@ You may also see any lint errors in the console.
 <img src="https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/homePage_ipad.PNG" alt="homePage" style="width: 300px; height: 300px;">
 
 
-#### for smart phones
+#### for smartphones
 
 <img src="https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/homePage_galaxyS8.PNG" alt="homePage" style="width: 200px; height: 300px;">
 
