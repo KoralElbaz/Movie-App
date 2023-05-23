@@ -39,5 +39,19 @@ You may also see any lint errors in the console.
 
 
 
+### Search movies:
+
+#### I entered the word 'Man' as a search term to find movies that contain this word.
+
+<img src="https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/search_man.PNG" alt="homePage" style="width: 500px; height: 300px;">
+
+#### The result I got on large screens is: (of course there is compatibility on other screens)
+
+<img src="https://github.com/KoralElbaz/Movie-App/blob/master/images_readme/all_man_movies.PNG" alt="homePage" style="width: 500px; height: 300px;">
+
+
+
+
+
 
 
